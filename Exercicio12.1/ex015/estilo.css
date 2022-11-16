@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(gray, rgb(66, 55, 55));
+    font: normal 15pt Arial;
+    
+}
+
+header {
+    color: rgb(14, 0, 0);
+    text-align: center;
+    background: white;
+    border-radius: 25px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.356);
+}
+
+section {
+    background: white;
+    border-radius: 25px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.356);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.356);
+}
